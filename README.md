@@ -1,4 +1,4 @@
-# Hospital VG V3 — Engenharia e Segurança
+# Hospital VG — Engenharia e Segurança
 
 Esta versão mantém a base visual e os fluxos do Hospital VG, mas corrige pontos estruturais identificados na análise técnica.
 
